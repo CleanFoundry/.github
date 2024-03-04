@@ -1,9 +1,0 @@
-{
-    "name": "Create Release from Commit Count",
-    "description": "Creates a new GitHub tag and release based on the commit count.",
-    "categories": [
-        "Automation",
-        "Continuous integration",
-        "Deployment",
-    ]
-}
